@@ -47,7 +47,7 @@ For sections with valid positive capacity, utilization is defined as:
 
 ![Mirrored bar chart comparing flagged and total sections](01_enrollment_risk_vs_total_sections.png)
 
-*Figure 1.* Mirrored horizontal bars compare total course sections (gray) with sections below 25% capacity (red) and from 25% to below 50% capacity (yellow). This contextualizes flagged counts against overall course offerings.
+*Figure 1.* Mirrored horizontal bars compare total course sections (gray); with sections below 25% capacity (red); and from 25% to below 50% capacity (yellow). This contextualizes flagged counts against overall course offerings.
 
 ### Figure 2 — Distribution of Flagged Sections by School
 
