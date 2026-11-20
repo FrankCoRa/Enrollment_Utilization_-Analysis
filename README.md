@@ -45,19 +45,19 @@ For sections with valid positive capacity, utilization is defined as:
 
 ### Figure 1 — Enrollment Risk vs. Total Course Sections
 
-![Mirrored bar chart comparing flagged and total sections](images/01_enrollment_risk_vs_total_sections.png)
+![Mirrored bar chart comparing flagged and total sections](01_enrollment_risk_vs_total_sections.png)
 
 *Figure 1.* Mirrored horizontal bars compare total course sections (gray) with sections below 25% capacity (red) and from 25% to below 50% capacity (yellow). This contextualizes flagged counts against overall course offerings.
 
 ### Figure 2 — Distribution of Flagged Sections by School
 
-![Pie chart of flagged sections by school](images/02_flagged_sections_by_school.png)
+![Pie chart of flagged sections by school](02_flagged_sections_by_school.png)
 
 *Figure 2.* The pie chart shows each school's **share of all flagged sections**, rather than the within-school under-enrollment rate. In the displayed selection, the School of Liberal Arts accounts for approximately **49.6%** of flagged sections and the School of Social and Behavioral Sciences for **35.3%**. These values describe the displayed filtered view, not a universal institutional pattern.
 
 ### Figure 3 — Section-Level Enrollment and Capacity Detail
 
-![Section-level enrollment and capacity table](images/03_section_enrollment_capacity_detail.png)
+![Section-level enrollment and capacity table](03_section_enrollment_capacity_detail.png)
 
 *Figure 3.* The detailed table identifies courses, sections, CRNs, and enrollment relative to capacity, with risk-based text colors. It supports investigation of specific records behind the aggregate patterns.
 
