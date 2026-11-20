@@ -92,17 +92,6 @@ The visualizations support administrative review; they do not establish why enro
 
 Institutional administrative records may be restricted. Public repositories should contain only authorized, de-identified, aggregated, or synthetic data. The methodology can be reproduced with equivalent course-section identifiers, enrollment measures, capacity values, and organizational classifications.
 
-## Repository Structure
-
-```text
-academic-enrollment-risk-analysis/
-├── README.md
-└── images/
-    ├── 01_enrollment_risk_vs_total_sections.png
-    ├── 02_flagged_sections_by_school.png
-    └── 03_section_enrollment_capacity_detail.png
-```
-
 ## Conclusion
 
 This project demonstrates an applied institutional research workflow that converts academic administrative data into interpretable enrollment-risk indicators. Its section-level, course-level, and school-level perspectives establish a foundation for more advanced predictive modeling and resource-allocation research.
